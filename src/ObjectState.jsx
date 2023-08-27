@@ -10,7 +10,7 @@ const ObjectState = () => {
 
     // handle the click
     const changeName = () => {
-        setUser({...user,name:'new Name',email:'newmail@mail.com    '})
+        setUser({...user,name:'new Name',email:'newmail@mail.com'})
     }
 
   return (
